@@ -6,6 +6,7 @@ xgboost
 lightgbm
 joblib
 Pillow
+easyocr
 pytesseract
 opencv-python
 python-multipart
